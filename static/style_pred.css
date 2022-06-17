@@ -1,0 +1,11 @@
+body{
+    background: url(3.jpg);
+    backdrop-filter: blur(6px);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.a h1{
+    margin-left:540px;
+    margin-top:400px;
+}
